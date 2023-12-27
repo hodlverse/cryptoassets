@@ -81,6 +81,14 @@
     },
     {
       "chainId": 11155111,
+      "address": "0x14A27F9C915D9AF984b7F319103FAA05C2457a3C",
+      "name": "Dai Stablecoin",
+      "symbol": "DAI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/osinakayah/cryptoassets/master/dollar-icon.svg"
+    },
+    {
+      "chainId": 11155111,
       "address": "0x9B7260EED7d353854402e4e681657125B472b37E",
       "name": "Tether USD",
       "symbol": "USDT",
