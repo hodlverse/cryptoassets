@@ -72,6 +72,22 @@
       "logoURI": "https://raw.githubusercontent.com/osinakayah/cryptoassets/master/dollar-icon.svg"
     },
     {
+      "chainId": 11155111,
+      "address": "0x425DBE161BA9d2067424E396756a36a23a4165a4",
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/osinakayah/cryptoassets/master/dollar-icon.svg"
+    },
+    {
+      "chainId": 11155111,
+      "address": "0x9B7260EED7d353854402e4e681657125B472b37E",
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/osinakayah/cryptoassets/master/dollar-icon.svg"
+    },
+    {
       "chainId": 97,
       "address": "0x2b4eBD749C6aC2cD8d80FD8e2198E2360248eCc1",
       "name": "DAI",
