@@ -73,6 +73,14 @@
     },
     {
       "chainId": 11155111,
+      "address": "0xCf50080971ee8902c30292116043587795172e54",
+      "name": "Staking (xMONEY)",
+      "symbol": "xMONEY",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/osinakayah/cryptoassets/master/dollar-icon.svg"
+    },
+    {
+      "chainId": 11155111,
       "address": "0x425DBE161BA9d2067424E396756a36a23a4165a4",
       "name": "USD Coin",
       "symbol": "USDC",
