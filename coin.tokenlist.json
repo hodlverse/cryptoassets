@@ -16,22 +16,6 @@
       "logoURI": "https://raw.githubusercontent.com/osinakayah/cryptoassets/master/coin.svg"
     },
     {
-      "chainId": 3,
-      "address": "0x212e4Ff4f9003eF018632A288cbF4Bb92962B3B1",
-      "name": "COIN",
-      "symbol": "COIN",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/osinakayah/cryptoassets/master/coin.svg"
-    },
-    {
-      "chainId": 3,
-      "address": "0xE366ECf71a1A3c57a79F58Cd6295437EE9B9B71D",
-      "name": "MONEY",
-      "symbol": "MONEY",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/osinakayah/cryptoassets/master/dollar-icon.svg"
-    },
-    {
       "chainId": 97,
       "address": "0x5A679055d1a1ac067F34b2e5109B4198DA0Ebf43",
       "name": "USDC Token",
@@ -74,7 +58,7 @@
     {
       "chainId": 11155111,
       "address": "0xCf50080971ee8902c30292116043587795172e54",
-      "name": "Staking (xMONEY)",
+      "name": "Staking xMONEY",
       "symbol": "xMONEY",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/osinakayah/cryptoassets/master/dollar-icon.svg"
