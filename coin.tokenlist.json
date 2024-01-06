@@ -8,38 +8,6 @@
   "timestamp": "2022-03-27T20:37:00.000+00:00",
   "tokens": [
     {
-      "chainId": 1,
-      "address": "0xE61fDAF474Fac07063f2234Fb9e60C1163Cfa850",
-      "name": "COIN",
-      "symbol": "COIN",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/osinakayah/cryptoassets/master/coin.svg"
-    },
-    {
-      "chainId": 97,
-      "address": "0x5A679055d1a1ac067F34b2e5109B4198DA0Ebf43",
-      "name": "USDC Token",
-      "symbol": "USDC",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/osinakayah/cryptoassets/master/dollar-icon.svg"
-    },
-    {
-      "chainId": 97,
-      "address": "0x6E95EF4d4026ceb7d769C52c2A3318240d9aD2Ec",
-      "name": "Money Token",
-      "symbol": "MONEY",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/osinakayah/cryptoassets/master/dollar-icon.svg"
-    },
-    {
-      "chainId": 97,
-      "address": "0x0d840469d56c0c1725d1a64da6a7e9e0143f4a10",
-      "name": "Wrapped Ether",
-      "symbol": "WETH",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/osinakayah/cryptoassets/master/dollar-icon.svg"
-    },
-    {
       "chainId": 11155111,
       "address": "0x39A510F5BCd86147eB8f5D773A0299E4E86C19d6",
       "name": "Wrapped Ether",
@@ -87,34 +55,10 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/osinakayah/cryptoassets/master/dollar-icon.svg"
     },
-    {
-      "chainId": 97,
-      "address": "0x2b4eBD749C6aC2cD8d80FD8e2198E2360248eCc1",
-      "name": "DAI",
-      "symbol": "DAI",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/osinakayah/cryptoassets/master/dollar-icon.svg"
-    },
-    {
-      "chainId": 97,
-      "address": "0x7Bbba710C55E48E460BF72e1cc2E1a3A1CA9290b",
-      "name": "USDT",
-      "symbol": "USDT",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/osinakayah/cryptoassets/master/dollar-icon.svg"
-    },
-    {
-      "chainId": 97,
-      "address": "0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3",
-      "name": "IoTeX Network",
-      "symbol": "IOTX",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/osinakayah/cryptoassets/master/dollar-icon.svg"
-    }
   ],
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 10
+    "patch": 11
   }
 }
