@@ -55,6 +55,30 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/osinakayah/cryptoassets/master/dollar-icon.svg"
     },
+    {
+      "chainId": 80001,
+      "address": "0x14a3DD807E5bC85Ba683F1fc15f632cf3472e777",
+      "name": "USD Coin Mumbai",
+      "symbol": "USDC",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/osinakayah/cryptoassets/master/dollar-icon.svg"
+    },
+    {
+      "chainId": 80001,
+      "address": "0x725C2FDf6f643D7FC04eF92E5d355F9EbE483D98",
+      "name": "Dai Stablecoin Mumbai",
+      "symbol": "DAI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/osinakayah/cryptoassets/master/dollar-icon.svg"
+    },
+    {
+      "chainId": 80001,
+      "address": "0x03E9587Af8465Aab57Efc5267264c62725479bFc",
+      "name": "Tether USD Mumbai",
+      "symbol": "USDT",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/osinakayah/cryptoassets/master/dollar-icon.svg"
+    }
   ],
   "version": {
     "major": 1,
