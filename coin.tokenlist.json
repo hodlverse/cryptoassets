@@ -78,6 +78,14 @@
       "symbol": "USDT",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/osinakayah/cryptoassets/master/dollar-icon.svg"
+    },
+    {
+      "chainId": 80001,
+      "address": "0xc2C929702bC96993CF2545ebb8c0Ab5f1aEfB9A6",
+      "name": "MONEY",
+      "symbol": "MONEY",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/osinakayah/cryptoassets/master/dollar-icon.svg"
     }
   ],
   "version": {
