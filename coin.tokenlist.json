@@ -86,6 +86,14 @@
       "symbol": "MONEY",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/osinakayah/cryptoassets/master/dollar-icon.svg"
+    },
+    {
+      "chainId": 80001,
+      "address": "0xe46863F8F45432345C4dD924FaE0348F4223a9ec",
+      "name": "Staking xMONEY",
+      "symbol": "xMONEY",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/osinakayah/cryptoassets/master/dollar-icon.svg"
     }
   ],
   "version": {
